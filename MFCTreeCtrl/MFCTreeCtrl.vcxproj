@@ -187,6 +187,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CContentDlg.h" />
     <ClInclude Include="MFCTreeCtrl.h" />
     <ClInclude Include="MFCTreeCtrlDlg.h" />
     <ClInclude Include="Resource.h" />
@@ -194,6 +195,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="CContentDlg.cpp" />
     <ClCompile Include="MFCTreeCtrl.cpp" />
     <ClCompile Include="MFCTreeCtrlDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
