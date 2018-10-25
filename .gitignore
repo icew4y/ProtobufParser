@@ -37,3 +37,5 @@
 *.ilk
 *.ipch
 MFCTreeCtrl/.vs/
+*.ipdb
+*.iobj
