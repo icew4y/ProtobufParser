@@ -1,0 +1,55 @@
+# CMake generation dependency list for this directory.
+D:/3rd/protobuf/cmake/CMakeLists.txt
+D:/3rd/protobuf/out/CMakeFiles/3.11.3/CMakeSystem.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeSystemSpecificInitialize.cmake
+D:/3rd/protobuf/out/CMakeFiles/3.11.3/CMakeCCompiler.cmake
+D:/3rd/protobuf/out/CMakeFiles/3.11.3/CMakeCXXCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+D:/3rd/protobuf/out/CMakeFiles/3.11.3/CMakeRCCompiler.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CMakeDependentOption.cmake
+D:/3rd/protobuf/cmake/protobuf-options.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindZLIB.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/SelectLibraryConfigurations.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/FindPackageMessage.cmake
+D:/3rd/protobuf/cmake/extract_includes.bat.in
+D:/3rd/protobuf/cmake/version.rc.in
+D:/3rd/protobuf/cmake/libprotobuf-lite.cmake
+D:/3rd/protobuf/cmake/libprotobuf.cmake
+D:/3rd/protobuf/cmake/libprotoc.cmake
+D:/3rd/protobuf/cmake/protoc.cmake
+D:/3rd/protobuf/cmake/tests.cmake
+D:/3rd/protobuf/cmake/install.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/GNUInstallDirs.cmake
+D:/3rd/protobuf/cmake/protobuf.pc.cmake
+D:/3rd/protobuf/cmake/protobuf-lite.pc.cmake
+D:/3rd/protobuf/cmake/protobuf-config.cmake.in
+D:/3rd/protobuf/cmake/protobuf-config-version.cmake.in
+D:/3rd/protobuf/cmake/protobuf-module.cmake.in
+D:/3rd/protobuf/cmake/protobuf-options.cmake
+D:/3rd/protobuf/cmake/examples.cmake
+C:/Program Files/CMake/share/cmake-3.11/Modules/ExternalProject.cmake
+D:/3rd/protobuf/out/examples/tmp/examples-cfgcmd.txt.in

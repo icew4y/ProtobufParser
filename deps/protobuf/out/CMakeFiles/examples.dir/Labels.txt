@@ -1,0 +1,13 @@
+# Target labels
+ examples
+# Source files and their labels
+D:/3rd/protobuf/out/CMakeFiles/examples
+D:/3rd/protobuf/out/CMakeFiles/47c0a21c16e1f38fed3841abde871d09/examples.rule
+D:/3rd/protobuf/out/CMakeFiles/20920276d563f2ecff4c356b1bb9d185/examples-complete.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-install.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-mkdir.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-download.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-update.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-patch.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-configure.rule
+D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-build.rule

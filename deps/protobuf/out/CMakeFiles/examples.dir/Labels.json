@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/examples"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/47c0a21c16e1f38fed3841abde871d09/examples.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/20920276d563f2ecff4c356b1bb9d185/examples-complete.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-install.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-mkdir.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-download.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-update.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-patch.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-configure.rule"
+		},
+		{
+			"file" : "D:/3rd/protobuf/out/CMakeFiles/3894c72a9ab07b9d020fd5a25c35c1ed/examples-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"examples"
+		],
+		"name" : "examples"
+	}
+}
